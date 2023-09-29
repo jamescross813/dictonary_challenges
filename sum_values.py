@@ -1,5 +1,6 @@
 # Write your sum_values function here:
-
+def sum_values(dict):
+    pass
 # Uncomment these function calls to test your sum_values function:
 #print(sum_values({"milk":5, "eggs":2, "flour": 3}))
 # should print 10

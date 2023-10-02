@@ -2,7 +2,8 @@
 def sum_even_keys(dict):
     sum = 0
     for key, value in dict.items():
-        pass 
+        if key%2==0:
+            sum+=value 
     return sum
 # Uncomment these function calls to test your  function:
 # print(sum_even_keys({1:5, 2:2, 3:3}))

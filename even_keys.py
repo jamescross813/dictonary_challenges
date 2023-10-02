@@ -1,5 +1,6 @@
 # Write your sum_even_keys function here:
-
+def sum_even_keys(dict):
+    pass
 # Uncomment these function calls to test your  function:
 #print(sum_even_keys({1:5, 2:2, 3:3}))
 # should print 2

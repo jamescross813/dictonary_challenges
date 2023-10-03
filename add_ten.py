@@ -1,6 +1,7 @@
 # Write your add_ten function here:
 def add_ten(dict):
-    pass
+    for key, value in dict:
+        pass
 # Uncomment these function calls to test your  function:
 #print(add_ten({1:5, 2:2, 3:3}))
 # should print {1:15, 2:12, 3:13}

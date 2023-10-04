@@ -1,6 +1,6 @@
 # Write your max_key function here:
 def max_key(dict):
-    pass
+    starting_key = 0
 # Uncomment these function calls to test your  function:
 #print(max_key({1:100, 2:1, 3:4, 4:10}))
 # should print 1

@@ -2,6 +2,8 @@
 def max_key(dict):
     starting_key = 0
     starting_value = 0
+    for key, value in dict.items():
+        pass
 # Uncomment these function calls to test your  function:
 #print(max_key({1:100, 2:1, 3:4, 4:10}))
 # should print 1

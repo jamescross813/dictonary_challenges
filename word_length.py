@@ -1,5 +1,5 @@
 # Write your word_length_dictionary function here:
-def word_length_dictionary():
+def word_length_dictionary(list_of_strings):
     pass
 # Uncomment these function calls to test your  function:
 #print(word_length_dictionary(["apple", "dog", "cat"]))

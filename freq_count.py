@@ -1,7 +1,8 @@
 # Write your frequency_dictionary function here:
 def frequency_dictionary(list_of_strings):
     new_dict={}
-    
+    for string in list_of_strings:
+        pass
 # Uncomment these function calls to test your  function:
 #print(frequency_dictionary(["apple", "apple", "cat", 1]))
 # should print {"apple":2, "cat":1, 1:1}

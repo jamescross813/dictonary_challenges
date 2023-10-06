@@ -2,7 +2,8 @@
 def unique_values(dict):
     my_list =[]
     for val in dict.items():
-        pass
+        if val[1] not in my_list:
+            pass
 # Uncomment these function calls to test your  function:
 # print(unique_values({0:3, 1:1, 4:1, 5:3}))
 # should print 2
